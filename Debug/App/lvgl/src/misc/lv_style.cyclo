@@ -1,0 +1,15 @@
+../App/lvgl/src/misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
+../App/lvgl/src/misc/lv_style.h:408:20:lv_style_is_const	2
+../App/lvgl/src/misc/lv_style.h:496:30:lv_style_get_prop_inlined	6
+../App/lvgl/src/misc/lv_style.h:536:24:_lv_style_get_prop_group	2
+../App/lvgl/src/misc/lv_style.c:176:6:lv_style_init	1
+../App/lvgl/src/misc/lv_style.c:190:6:lv_style_reset	2
+../App/lvgl/src/misc/lv_style.c:201:17:lv_style_register_prop	6
+../App/lvgl/src/misc/lv_style.c:237:17:lv_style_get_num_custom_props	1
+../App/lvgl/src/misc/lv_style.c:242:6:lv_style_remove_prop	8
+../App/lvgl/src/misc/lv_style.c:287:6:lv_style_set_prop	8
+../App/lvgl/src/misc/lv_style.c:336:16:lv_style_get_prop	1
+../App/lvgl/src/misc/lv_style.c:341:6:lv_style_transition_dsc_init	2
+../App/lvgl/src/misc/lv_style.c:352:18:lv_style_prop_get_default	22
+../App/lvgl/src/misc/lv_style.c:420:6:lv_style_is_empty	1
+../App/lvgl/src/misc/lv_style.c:427:9:_lv_style_prop_lookup_flags	6

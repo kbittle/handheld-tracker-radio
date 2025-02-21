@@ -1,0 +1,2 @@
+../App/sd/sdmmc_bmp.c:19:16:sdmmc_readBitmap	128	dynamic
+../App/sd/sdmmc_bmp.c:151:16:convert24to16	24	static

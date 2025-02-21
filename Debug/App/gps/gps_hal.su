@@ -1,0 +1,4 @@
+../App/gps/gps_hal.c:5:6:GPS_HAL_PowerControl	16	static
+../App/gps/gps_hal.c:42:10:GPS_HAL_Available	4	static
+../App/gps/gps_hal.c:47:10:GPS_HAL_Read	4	static
+../App/gps/gps_hal.c:52:10:GPS_HAL_GetMilliseconds	4	static

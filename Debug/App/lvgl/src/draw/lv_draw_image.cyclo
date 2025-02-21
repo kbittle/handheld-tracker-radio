@@ -1,0 +1,15 @@
+../App/lvgl/src/draw/../misc/../font/../draw/../misc/lv_area.h:121:20:lv_area_copy	1
+../App/lvgl/src/draw/../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	1
+../App/lvgl/src/draw/../misc/../font/../draw/../misc/lv_area.h:144:23:lv_area_get_height	1
+../App/lvgl/src/draw/../misc/../font/../draw/../misc/lv_color.h:288:26:lv_color_make	1
+../App/lvgl/src/draw/../misc/../font/../draw/../misc/lv_color.h:424:26:lv_color_black	1
+../App/lvgl/src/draw/../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
+../App/lvgl/src/draw/lv_draw_image.c:46:6:lv_draw_image_dsc_init	1
+../App/lvgl/src/draw/lv_draw_image.c:58:23:lv_draw_task_get_image_dsc	2
+../App/lvgl/src/draw/lv_draw_image.c:63:6:lv_draw_layer	1
+../App/lvgl/src/draw/lv_draw_image.c:82:6:lv_draw_image	4
+../App/lvgl/src/draw/lv_draw_image.c:113:16:lv_image_src_get_type	5
+../App/lvgl/src/draw/lv_draw_image.c:130:6:_lv_draw_image_normal_helper	7
+../App/lvgl/src/draw/lv_draw_image.c:170:6:_lv_draw_image_tiled_helper	6
+../App/lvgl/src/draw/lv_draw_image.c:223:6:_lv_image_buf_get_transformed_area	4
+../App/lvgl/src/draw/lv_draw_image.c:254:13:img_decode_and_draw	8

@@ -1,0 +1,4 @@
+../App/app_main.c:10:6:main_app_setup	8	static
+../App/app_main.c:24:6:main_app_update	8	static
+../App/app_main.c:40:6:HAL_SAI_TxHalfCpltCallback	16	static
+../App/app_main.c:45:6:HAL_SAI_TxCpltCallback	16	static

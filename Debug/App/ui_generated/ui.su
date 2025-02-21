@@ -1,0 +1,17 @@
+../App/lvgl/src/misc/lv_anim.h:219:20:lv_anim_set_duration	16	static
+../App/lvgl/src/misc/lv_anim.h:227:20:lv_anim_set_time	16	static
+../App/lvgl/src/misc/lv_anim.h:237:20:lv_anim_set_delay	16	static
+../App/lvgl/src/misc/lv_anim.h:248:20:lv_anim_set_values	24	static
+../App/lvgl/src/misc/lv_anim.h:263:20:lv_anim_set_custom_exec_cb	16	static
+../App/lvgl/src/misc/lv_anim.h:273:20:lv_anim_set_path_cb	16	static
+../App/lvgl/src/misc/lv_anim.h:294:20:lv_anim_set_get_value_cb	16	static
+../App/lvgl/src/misc/lv_anim.h:314:20:lv_anim_set_deleted_cb	16	static
+../App/lvgl/src/misc/lv_anim.h:324:20:lv_anim_set_playback_duration	16	static
+../App/lvgl/src/misc/lv_anim.h:332:20:lv_anim_set_playback_time	16	static
+../App/lvgl/src/misc/lv_anim.h:342:20:lv_anim_set_playback_delay	16	static
+../App/lvgl/src/misc/lv_anim.h:352:20:lv_anim_set_repeat_count	16	static
+../App/lvgl/src/misc/lv_anim.h:362:20:lv_anim_set_repeat_delay	16	static
+../App/lvgl/src/misc/lv_anim.h:373:20:lv_anim_set_early_apply	16	static
+../App/lvgl/src/misc/lv_anim.h:383:20:lv_anim_set_user_data	16	static
+../App/ui_generated/ui.c:77:6:downanim_Animation	200	static
+../App/ui_generated/ui.c:124:6:ui_init	32	static

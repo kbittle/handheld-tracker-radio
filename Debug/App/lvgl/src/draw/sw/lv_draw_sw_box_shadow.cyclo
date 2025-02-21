@@ -1,0 +1,7 @@
+../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:121:20:lv_area_copy	1
+../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	1
+../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:144:23:lv_area_get_height	1
+../App/lvgl/src/draw/sw/../../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
+../App/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:55:6:lv_draw_sw_box_shadow	90
+../App/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:567:35:shadow_draw_corner_buf	13
+../App/lvgl/src/draw/sw/lv_draw_sw_box_shadow.c:654:35:shadow_blur_corner	15

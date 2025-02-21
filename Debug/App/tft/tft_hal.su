@@ -1,0 +1,10 @@
+../App/tft/tft_hal.c:27:6:tft_hal_init	16	static
+../App/tft/tft_hal.c:49:25:tft_pwr_ctrl	16	static
+../App/tft/tft_hal.c:63:25:tft_cs_begin	4	static
+../App/tft/tft_hal.c:72:25:tft_cs_end	4	static
+../App/tft/tft_hal.c:81:25:tft_sendCommand	24	static
+../App/tft/tft_hal.c:98:25:tft_sendData8	24	static
+../App/tft/tft_hal.c:109:25:tft_sendData16	24	static
+../App/tft/tft_hal.c:124:25:tft_sendData32	24	static
+../App/tft/tft_hal.c:141:25:tft_sendDataDma	24	static
+../App/tft/tft_hal.c:152:25:tft_delay	16	static

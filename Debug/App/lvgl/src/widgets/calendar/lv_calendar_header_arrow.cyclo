@@ -1,0 +1,5 @@
+../App/lvgl/src/widgets/calendar/../../core/../misc/../font/../draw/../misc/lv_area.h:370:23:lv_pct	2
+../App/lvgl/src/widgets/calendar/lv_calendar_header_arrow.c:55:12:lv_calendar_header_arrow_create	1
+../App/lvgl/src/widgets/calendar/lv_calendar_header_arrow.c:66:13:my_constructor	1
+../App/lvgl/src/widgets/calendar/lv_calendar_header_arrow.c:104:13:month_event_cb	6
+../App/lvgl/src/widgets/calendar/lv_calendar_header_arrow.c:144:13:value_changed_event_cb	3

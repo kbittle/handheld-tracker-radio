@@ -1,0 +1,3 @@
+../App/sd/sdmmc.c:21:6:PlayAudioFileTest	15
+../App/sd/sdmmc.c:131:6:fs_test	6
+../App/sd/sdmmc.c:175:6:fs_test2	16

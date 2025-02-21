@@ -1,0 +1,15 @@
+../App/tft/tft_st7789.c:56:17:tft_st7789_init	4
+../App/tft/tft_st7789.c:86:17:tft_st7789_setRotation	9
+../App/tft/tft_st7789.c:138:17:tft_st7789_enableDisplay	5
+../App/tft/tft_st7789.c:155:17:tft_st7789_drawPixel	8
+../App/tft/tft_st7789.c:178:17:tft_st7789_fillRect	15
+../App/tft/tft_st7789.c:245:17:tft_st7789_drawFastHLine	11
+../App/tft/tft_st7789.c:289:17:tft_st7789_drawFastVLine	11
+../App/tft/tft_st7789.c:333:17:tft_st7789_writeFillRectPreclipped	3
+../App/tft/tft_st7789.c:353:17:tft_st7789_fillCircle	9
+../App/tft/tft_st7789.c:409:17:tft_st7789_drawArc	3
+../App/tft/tft_st7789.c:444:17:tft_st7789_fillArc	3
+../App/tft/tft_st7789.c:477:17:tft_st7789_drawImage	3
+../App/tft/tft_st7789.c:506:17:tft_st7789_startupConfig	7
+../App/tft/tft_st7789.c:613:17:tft_st7789_setAddrWindow	5
+../App/tft/tft_st7789.c:644:17:tft_st7789_writeColor	5

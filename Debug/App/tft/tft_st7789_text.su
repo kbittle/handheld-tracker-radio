@@ -1,0 +1,4 @@
+../App/tft/tft_st7789_text.c:102:17:tft_st7789_setPosition	16	static
+../App/tft/tft_st7789_text.c:122:17:tft_st7789_setFontSize	16	static
+../App/tft/tft_st7789_text.c:129:17:tft_st7789_drawString	32	static
+../App/tft/tft_st7789_text.c:158:17:tft_st7789_drawChar	40	static
