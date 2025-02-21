@@ -4,7 +4,7 @@ A handheld device created to use the RBmesh radio module. Long term goal is to s
 
 ## Software Notes:
 
-Using Stm32CubeMX + Stm32CubeIde. For the UI I am using LVGL library + SquareLine Studio to design/generate the LVGL code.
+The project is written in C. Uses Stm32CubeMX and Stm32CubeIde development tools. For the UI I am using LVGL library + SquareLine Studio to design/generate the LVGL code.
 
 ### Notes to build lvdl
 - Pull Release v9.1.0 from bitbucket

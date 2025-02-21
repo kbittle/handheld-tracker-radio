@@ -1,7 +1,0 @@
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	16	static
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:286:26:lv_point_from_precise	24	static
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	16	static
-../App/lvgl/src/draw/sw/lv_draw_sw_line.c:45:6:lv_draw_sw_line	112	static
-../App/lvgl/src/draw/sw/lv_draw_sw_line.c:100:35:draw_line_hor	128	static
-../App/lvgl/src/draw/sw/lv_draw_sw_line.c:175:35:draw_line_ver	120	static
-../App/lvgl/src/draw/sw/lv_draw_sw_line.c:246:35:draw_line_skew	424	static

@@ -1,7 +1,0 @@
-../App/ui/ui_events.c:20:6:messageButtonHandler	1
-../App/ui/ui_events.c:24:6:ui_handle_extiEvent	6
-../App/ui/ui_events.c:57:6:ui_handle_mainMenu	22
-../App/ui/ui_events.c:125:6:ui_handle_messageMenu	2
-../App/ui/ui_events.c:136:6:ui_handle_gnssMenu	2
-../App/ui/ui_events.c:147:6:ui_handle_settingsMenu	2
-../App/ui/ui_events.c:158:6:ui_handle_keyboardMenu	4

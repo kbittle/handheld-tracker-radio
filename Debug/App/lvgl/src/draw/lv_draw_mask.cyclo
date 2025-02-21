@@ -1,4 +1,0 @@
-../App/lvgl/src/draw/../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
-../App/lvgl/src/draw/lv_draw_mask.c:39:28:lv_draw_mask_rect_dsc_init	1
-../App/lvgl/src/draw/lv_draw_mask.c:44:27:lv_draw_task_get_mask_rect_dsc	2
-../App/lvgl/src/draw/lv_draw_mask.c:49:28:lv_draw_mask_rect	4

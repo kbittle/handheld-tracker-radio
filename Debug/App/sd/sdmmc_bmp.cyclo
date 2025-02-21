@@ -1,2 +1,0 @@
-../App/sd/sdmmc_bmp.c:19:16:sdmmc_readBitmap	12
-../App/sd/sdmmc_bmp.c:151:16:convert24to16	1

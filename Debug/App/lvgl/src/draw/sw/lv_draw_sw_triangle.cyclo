@@ -1,5 +1,0 @@
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:144:23:lv_area_get_height	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:286:26:lv_point_from_precise	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:316:20:lv_point_swap	1
-../App/lvgl/src/draw/sw/lv_draw_sw_triangle.c:44:6:lv_draw_sw_triangle	23

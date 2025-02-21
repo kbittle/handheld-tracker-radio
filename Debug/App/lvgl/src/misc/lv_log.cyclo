@@ -1,3 +1,0 @@
-../App/lvgl/src/misc/lv_log.c:68:6:lv_log_register_print_cb	1
-../App/lvgl/src/misc/lv_log.c:73:6:_lv_log_add	7
-../App/lvgl/src/misc/lv_log.c:123:6:lv_log	2

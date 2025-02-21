@@ -1,4 +1,0 @@
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
-../App/lvgl/src/draw/sw/lv_draw_sw_letter.c:52:6:lv_draw_sw_label	2
-../App/lvgl/src/draw/sw/lv_draw_sw_letter.c:65:35:draw_letter_cb	6

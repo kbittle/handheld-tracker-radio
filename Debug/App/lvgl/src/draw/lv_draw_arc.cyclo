@@ -1,7 +1,0 @@
-../App/lvgl/src/draw/../core/../misc/../font/../draw/../misc/lv_color.h:288:26:lv_color_make	1
-../App/lvgl/src/draw/../core/../misc/../font/../draw/../misc/lv_color.h:424:26:lv_color_black	1
-../App/lvgl/src/draw/../core/../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
-../App/lvgl/src/draw/lv_draw_arc.c:38:6:lv_draw_arc_dsc_init	1
-../App/lvgl/src/draw/lv_draw_arc.c:46:21:lv_draw_task_get_arc_dsc	2
-../App/lvgl/src/draw/lv_draw_arc.c:51:6:lv_draw_arc	4
-../App/lvgl/src/draw/lv_draw_arc.c:74:6:lv_draw_arc_get_area	25

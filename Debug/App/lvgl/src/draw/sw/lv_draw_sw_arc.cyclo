@@ -1,8 +1,0 @@
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:121:20:lv_area_copy	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:134:23:lv_area_get_width	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_area.h:144:23:lv_area_get_height	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../misc/lv_math.h:54:45:lv_trigo_cos	1
-../App/lvgl/src/draw/sw/../../misc/../font/../draw/../stdlib/lv_string.h:65:20:lv_memzero	1
-../App/lvgl/src/draw/sw/lv_draw_sw_arc.c:49:6:lv_draw_sw_arc	28
-../App/lvgl/src/draw/sw/lv_draw_sw_arc.c:218:13:add_circle	3
-../App/lvgl/src/draw/sw/lv_draw_sw_arc.c:238:13:get_rounded_area	3
