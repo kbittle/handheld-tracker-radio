@@ -1,9 +1,0 @@
-../App/app_ui.c:34:6:ui_app_setup	16	static
-../App/app_ui.c:63:6:ui_app_update	8	static
-../App/app_ui.c:81:6:lv_indev_createKeypad	16	static
-../App/app_ui.c:104:6:indev_keypad_read_cb	16	static
-../App/app_ui.c:119:6:my_event_cb	16	static
-../App/app_ui.c:125:6:my_print_cb	16	static
-../App/app_ui.c:130:6:my_flush_cb	48	static
-../App/app_ui.c:141:6:HAL_SPI_TxCpltCallback	16	static
-../App/app_ui.c:148:6:HAL_GPIO_EXTI_Callback	16	static

@@ -1,3 +1,0 @@
-../App/audio/audio.c:28:6:populate_sine_wave	2
-../App/audio/audio.c:50:6:PlayAudio	6
-../App/audio/audio.c:108:6:printWavHeader	1
